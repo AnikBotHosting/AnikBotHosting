@@ -75,7 +75,37 @@
 [![Website](https://img.shields.io/badge/🌐_Website-6366f1?style=for-the-badge&logo=globe&logoColor=white)](https://anikbothosting.de)
 [![Discord](https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wN37sXfG5B)
 [![Dashboard](https://img.shields.io/badge/📊_Dashboard-10b981?style=for-the-badge&logo=chart-line&logoColor=white)](https://anikbothosting.de/dashboard.php)
-[![Documentation](https://img.shields.io/badge/📚_Docs-ec4899?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://anikbothosting.de)
+[![AI Bot Landing](https://img.shields.io/badge/🤖_AI_Bot_Landing-ec4899?style=for-the-badge&logo=robot&logoColor=white)](https://anikbothosting.de/ai-bot-landing.php)
+[![Invite AI Bot](https://img.shields.io/badge/🚀_Bot_Einladen-10b981?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1389560899496579082&permissions=8&scope=bot%20applications.commands)
+
+</div>
+
+---
+
+## 🤖 Anik AI Bot - Kostenloser Discord AI Bot
+
+<div align="center">
+
+### 🚀 Supercharge your Discord with realtime intelligence
+
+**Anik AI Bot** verbindet natürliches Sprachverständnis, adaptive Moderation und tiefgreifende Analysen, um Communities sicher, informiert und engagiert zu halten.
+
+[![AI Bot Landing](https://img.shields.io/badge/🌐_AI_Bot_Landing-6366f1?style=for-the-badge&logo=robot&logoColor=white)](https://anikbothosting.de/ai-bot-landing.php)
+[![Invite Bot](https://img.shields.io/badge/🤖_Bot_Einladen-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/api/oauth2/authorize?client_id=1389560899496579082&permissions=8&scope=bot%20applications.commands)
+
+**✨ Features:**
+- 💬 Conversational AI - GPT-grade Antworten
+- 🛡️ Adaptive Moderation - Echtzeit-Spam & Toxicity Detection
+- 📊 Live Intelligence - Wachstums- & Sentiment-Analysen
+- 🔌 One-Click Integrations - Google Sheets, Notion, Zapier & mehr
+- 🌍 Global by Design - 60+ Sprachen unterstützt
+- 🆓 **Komplett kostenlos - für immer!**
+
+**📈 Live Stats:**
+- 🌐 540+ Communities live
+- 💬 2.4M Nachrichten/Tag analysiert
+- ⚡ 1.2s Durchschnittliche Response-Zeit
+- 📊 99.98% Uptime
 
 </div>
 
